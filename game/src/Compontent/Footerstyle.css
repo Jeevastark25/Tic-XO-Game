@@ -1,0 +1,27 @@
+
+#copy{
+    width: 100%;
+    position: relative;
+    height: 50px;
+    padding-top: 20px;
+
+}
+#copy p{
+    position: absolute;
+    left: 43%;
+    color: darkblue;
+    font-size: 15px;
+}
+
+@media(max-width:1200px){
+#copy{
+    width: 100%;
+    height: 60px;
+}
+
+#copy p{
+    position: relative;
+    left: 80px;
+}
+
+}

@@ -1,0 +1,13 @@
+.xbtn{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 90px 90px;
+    background-image: url('D:/vs-code/react/Tic-XO-Game/game/public/Images/x.png');
+}
+.obtn{
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 90px 90px;
+    background-image: url('D:/vs-code/react/Tic-XO-Game/game/public/Images/o.png');
+}
